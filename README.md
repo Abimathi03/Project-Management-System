@@ -20,4 +20,4 @@ A full-stack project management tool to create, update, and track tasks with a s
 ### Prerequisites
 
 - Node.js & npm
-- MongoDB (local or Atlas, if used)
+- MongoDB
